@@ -17,3 +17,5 @@ I downloaded the **layoff dataset** from *Alex The Analyst's* GitHub page and pe
 
 ## 4. Removed Unwanted Columns  
 - Dropped irrelevant columns that were not needed for analysis.  
+
+## After the data cleaning i perform exploratory analysis on the cleaned data
